@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028c59eb9c7644046904bc7bf657372d, type: 3}
+  m_Name: jipao
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u75BE\u8DD1"
+  icon: {fileID: 21300000, guid: 6872c371344b9e64398f58871164bb22, type: 3}
+  prefab: {fileID: 0}
+  description: "\u589E\u52A030%\u79FB\u52A8\u901F\u5EA6\uFF0C\u6301\u7EED10\u79D2"
+  price: 0
+  audioEffect: {fileID: 0}
+  attackLevels: []
+  cdLevels:
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 100
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: 2f423a632d29a32429eaf1c05f62468a, type: 2}
+    isMaxAttribute: 0
+    value: 30
+  level: 0

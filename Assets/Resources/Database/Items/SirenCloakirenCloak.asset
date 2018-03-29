@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0622492e8c891554bae3d33c34b28275, type: 3}
+  m_Name: SirenCloakirenCloak
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u9B54\u5973\u6597\u7BF7"
+  icon: {fileID: 21300000, guid: b2525b89f1f3df64ea918ae4f943bd43, type: 3}
+  prefab: {fileID: 0}
+  description: "\u6CD5\u672F\u9632\u5FA1+280,\u6700\u5927\u751F\u547D+1100"
+  price: 1870
+  audioEffect: {fileID: 0}
+  type: 2
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: fd23c2def20cb7e409b938002160e5b5, type: 2}
+    isMaxAttribute: 1
+    value: 280
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 1
+    value: 1100

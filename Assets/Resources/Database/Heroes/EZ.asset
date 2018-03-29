@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45de260afa7fb704aa11c9e3274912e0, type: 3}
+  m_Name: EZ
+  m_EditorClassIdentifier: 
+  id: 0
+  name: EZ
+  icon: {fileID: 21300000, guid: a0f8da0ccc8b1944392c65d8240ed31a, type: 3}
+  prefab: {fileID: 1098505501437288, guid: 285c0699d45355942bb2109f459c125f, type: 2}
+  description: dsafdsf
+  price: 0
+  audioEffect: {fileID: 0}
+  heroPrefab: {fileID: 1686605898031832, guid: 098744430f0a5964884347594f0718d6, type: 2}
+  cardIcon: {fileID: 21300000, guid: b50556383d0112d4b9c42c487ae37613, type: 3}
+  attributes:
+  - attribute: {fileID: 11400000, guid: 0224166e995100d498ec043c6f076f39, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: b44baf05dcec342458942dd36bc2fb9a, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: baaf9d4cbe65f6b429a338a0535d5149, type: 2}
+    value: 200
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    value: 3435
+  - attribute: {fileID: 11400000, guid: fe68c37c7ba8d6e4fbf0a99d63c6ea01, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: fd23c2def20cb7e409b938002160e5b5, type: 2}
+    value: 50
+  - attribute: {fileID: 11400000, guid: d47f141f38c429c49812fd879ff8eaa4, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: 4d22bd8b40c8af24e928a686f43bd759, type: 2}
+    value: 550
+  - attribute: {fileID: 11400000, guid: 2f423a632d29a32429eaf1c05f62468a, type: 2}
+    value: 360
+  - attribute: {fileID: 11400000, guid: ea1cc6ec3a6c81d4f89a25bad08d62c7, type: 2}
+    value: 0
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 170
+  - attribute: {fileID: 11400000, guid: 2926cf2214ba50343b91fdf8bf790c74, type: 2}
+    value: 95
+  - attribute: {fileID: 11400000, guid: 0590c55c95ab95643aa52c4cd24a44a3, type: 2}
+    value: 10
+  skills:
+  - {fileID: 11400000, guid: 069e13aefa4dfa54c926773748e18f15, type: 2}
+  - {fileID: 11400000, guid: 19a2c5e36d50fc1459ab180d881b745d, type: 2}
+  specialSkill: {fileID: 11400000, guid: 9967e9f707f2e274f8952b3643085d7f, type: 2}
+  suggestItems: []

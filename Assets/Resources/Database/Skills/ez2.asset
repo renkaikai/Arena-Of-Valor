@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028c59eb9c7644046904bc7bf657372d, type: 3}
+  m_Name: ez2
+  m_EditorClassIdentifier: 
+  id: 0
+  name: ez2
+  icon: {fileID: 21300000, guid: 549cec4f096073f4cb0b7092847d812d, type: 3}
+  prefab: {fileID: 0}
+  description: "\u4F0A\u6CFD\u745E\u5C14\u4F20\u9001\u5230\u4E34\u8FD1\u7684\u76EE\u6807\u533A\u57DF\uFF0C\u5E76\u5411\u6700\u8FD1\u7684\u654C\u65B9\u5355\u4F4D\u53D1\u5C04\u81EA\u52A8\u8FFD\u8E2A\u7684\u9B54\u6CD5\u7BAD\uFF0C\u9020\u621075/125/175/225/275/325\uFF08+0.75*AP\u52A0\u6210\uFF09\u9B54\u6CD5\u4F24\u5BB3"
+  price: 0
+  audioEffect: {fileID: 0}
+  type: 1
+  attackLevels:
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 75
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 125
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 175
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 225
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 275
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 325
+  cdLevels:
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 19
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 17.5
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 16
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 14.5
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 13
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 11.5
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: d47f141f38c429c49812fd879ff8eaa4, type: 2}
+    isMaxAttribute: 0
+    value: 90
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -75
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -125
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -175
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -225
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -275
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -325
+  level: 0

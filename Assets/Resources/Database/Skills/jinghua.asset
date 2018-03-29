@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028c59eb9c7644046904bc7bf657372d, type: 3}
+  m_Name: jinghua
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u51C0\u5316"
+  icon: {fileID: 21300000, guid: 04e4fec847625ab478af49e50f17f6b4, type: 3}
+  prefab: {fileID: 0}
+  description: "\u89E3\u9664\u81EA\u8EAB\u6240\u6709\u8D1F\u9762\u548C\u63A7\u5236\u6548\u679C"
+  price: 0
+  audioEffect: {fileID: 0}
+  attackLevels: []
+  cdLevels:
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 120
+  attributeEffects: []
+  level: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0622492e8c891554bae3d33c34b28275, type: 3}
+  m_Name: LastPhase
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u672B\u4E16"
+  icon: {fileID: 21300000, guid: 74105b20175bbb8418580c81c8ae23d8, type: 3}
+  prefab: {fileID: 0}
+  description: "\u7269\u7406\u653B\u51FB+60\uFF0C\u653B\u51FB\u901F\u5EA6+30%\uFF0C\u7269\u7406\u5438\u8840+10%"
+  price: 2160
+  audioEffect: {fileID: 0}
+  type: 1
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    isMaxAttribute: 1
+    value: 60
+  - attribute: {fileID: 11400000, guid: 0224166e995100d498ec043c6f076f39, type: 2}
+    isMaxAttribute: 1
+    value: 0.3
+  - attribute: {fileID: 11400000, guid: fe68c37c7ba8d6e4fbf0a99d63c6ea01, type: 2}
+    isMaxAttribute: 1
+    value: 0.1

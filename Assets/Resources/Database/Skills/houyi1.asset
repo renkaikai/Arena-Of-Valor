@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028c59eb9c7644046904bc7bf657372d, type: 3}
+  m_Name: houyi1
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u7099\u70ED\u4E4B\u98CE"
+  icon: {fileID: 21300000, guid: 773b7e33ec6a91143a207002f8c6812d, type: 3}
+  prefab: {fileID: 0}
+  description: "\u8BA9\u540E\u7FBF\u7684\u666E\u653B\u5C04\u51FA\u4E00\u9635\u7099\u70ED\u7BAD\u98CE\uFF0C\u77ED\u65F6\u95F4\u5185\u4E0B3\u6B21\u653B\u51FB\u90FD\u4F1A\u9020\u6210\u989D\u591665/80/95/110/125/140
+    \   \uFF08+40%\u7269\u7406\u52A0\u6210\uFF09\u70B9\u7269\u7406\u4F24\u5BB3\u3002"
+  price: 0
+  audioEffect: {fileID: 0}
+  type: 1
+  attackLevels:
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 65
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 80
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 95
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 110
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 125
+  - attribute: {fileID: 11400000, guid: 0602eb6a88aae274e8b28b565112bad1, type: 2}
+    value: 140
+  cdLevels:
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 10
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: d47f141f38c429c49812fd879ff8eaa4, type: 2}
+    isMaxAttribute: 0
+    value: 60
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -65
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -80
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -95
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -110
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -125
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -140
+  level: 0

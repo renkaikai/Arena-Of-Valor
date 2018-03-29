@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0622492e8c891554bae3d33c34b28275, type: 3}
+  m_Name: ResistShooes
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u62B5\u6297\u4E4B\u9774"
+  icon: {fileID: 21300000, guid: 6ea390947aa13c8409906996301049c9, type: 3}
+  prefab: {fileID: 0}
+  description: "\u6CD5\u672F\u9632\u5FA1+110\uFF0C\u79FB\u52A8\u901F\u5EA6+60"
+  price: 690
+  audioEffect: {fileID: 0}
+  type: 3
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: fd23c2def20cb7e409b938002160e5b5, type: 2}
+    isMaxAttribute: 1
+    value: 110
+  - attribute: {fileID: 11400000, guid: 2f423a632d29a32429eaf1c05f62468a, type: 2}
+    isMaxAttribute: 1
+    value: 60

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0622492e8c891554bae3d33c34b28275, type: 3}
+  m_Name: FrostStaves
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u51B0\u971C\u6CD5\u6756"
+  icon: {fileID: 21300000, guid: b8f35a63fb712ac49a84f52f0b3a2734, type: 3}
+  prefab: {fileID: 0}
+  description: "+240\u6CD5\u672F\u653B\u51FB"
+  price: 2100
+  audioEffect: {fileID: 0}
+  type: 0
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    isMaxAttribute: 1
+    value: 240

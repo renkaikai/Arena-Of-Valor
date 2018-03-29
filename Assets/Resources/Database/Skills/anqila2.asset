@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028c59eb9c7644046904bc7bf657372d, type: 3}
+  m_Name: anqila2
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u6DF7\u6C8C\u706B\u79CD"
+  icon: {fileID: 21300000, guid: c2167622a6582904f927564a0854189b, type: 3}
+  prefab: {fileID: 0}
+  description: "\u5B89\u742A\u62C9\u671D\u6307\u5B9A\u4F4D\u7F6E\u91CA\u653E\u6DF7\u6C8C\u706B\u79CD\uFF0C\u706B\u79CD\u5728\u89E6\u78B0\u5230\u654C\u4EBA\u6216\u6563\u64AD\u5230\u6700\u8FDC\u8DDD\u79BB\u65F6\uFF0C\u88C2\u53D8\u4E3A\u706B\u7130\u6F29\u6DA1,
+    \u4F7F\u547D\u4E2D\u7684\u654C\u65B9\u77ED\u6682\u6655\u7729\uFF0C\u4E4B\u540E\u7F13\u6162\u98DE\u884C\u5BF9\u5468\u56F4\u7684\u654C\u4EBA\u6BCF\u6B21\u707C\u70E7\u9020\u6210130/145/160/175/190/205\uFF08+17%\u6CD5\u672F\u52A0\u6210\uFF09\u70B9\u6CD5\u672F\u4F24\u5BB3\u5E76\u51CF\u901F\u3002"
+  price: 0
+  audioEffect: {fileID: 0}
+  type: 1
+  attackLevels:
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 130
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 145
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 160
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 175
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 190
+  - attribute: {fileID: 11400000, guid: 940de4c69ddc2ae4ab8021263b0dccd8, type: 2}
+    value: 205
+  cdLevels:
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 10
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 9.6
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 9.2
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 8.8
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 8.4
+  - attribute: {fileID: 11400000, guid: f4c13fc57b8daaf4791527b893f54742, type: 2}
+    value: 8
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: d47f141f38c429c49812fd879ff8eaa4, type: 2}
+    isMaxAttribute: 0
+    value: 80
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -130
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -145
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -160
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -175
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -190
+  - attribute: {fileID: 11400000, guid: d750fca9001d1024fa7d4582ddf29fcb, type: 2}
+    isMaxAttribute: 0
+    value: -205
+  - attribute: {fileID: 11400000, guid: 2f423a632d29a32429eaf1c05f62468a, type: 2}
+    isMaxAttribute: 0
+    value: -100
+  level: 0

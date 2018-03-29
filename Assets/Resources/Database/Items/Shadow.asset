@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0622492e8c891554bae3d33c34b28275, type: 3}
+  m_Name: Shadow
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "\u5F71\u5203"
+  icon: {fileID: 21300000, guid: eaf8d107561b1774cbc42016e0a5798d, type: 3}
+  prefab: {fileID: 0}
+  description: "+40\u653B\u51FB\u901F\u5EA6\uFF0C+20%\u66B4\u51FB\u7387\uFF0C+%5\u79FB\u901F"
+  price: 2070
+  audioEffect: {fileID: 0}
+  type: 1
+  attributeEffects:
+  - attribute: {fileID: 11400000, guid: 0224166e995100d498ec043c6f076f39, type: 2}
+    isMaxAttribute: 1
+    value: 0.4
+  - attribute: {fileID: 11400000, guid: baaf9d4cbe65f6b429a338a0535d5149, type: 2}
+    isMaxAttribute: 1
+    value: 0.2
+  - attribute: {fileID: 11400000, guid: 2f423a632d29a32429eaf1c05f62468a, type: 2}
+    isMaxAttribute: 1
+    value: 0.05
